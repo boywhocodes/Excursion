@@ -5,6 +5,11 @@
     font-family: Verdana;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
 .title {
     font-size: 50px;
 }
@@ -17,9 +22,10 @@
 .app-description {
     color: gray;
     font-size: 21px;
-    font-weight: 300;
 }
 
 .copyright {
     text-align: right;
+    color: gray;
+    font-size: 21px;
 }
