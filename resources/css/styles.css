@@ -1,3 +1,25 @@
 * {
+    color: white;
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.app-description {
+    color: gray;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.copyright {
+    text-align: right;
 }
